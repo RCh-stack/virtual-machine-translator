@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1641565613 source:c:\users\benja\desktop\system soft [lab's]\endversion\vm-4\main.cpp
+	<iostream>
+	"Processor.cpp"
+
+1641300768 source:c:\users\benja\desktop\system soft [lab's]\endversion\vm-4\memory.cpp
+	"Memory.h"
+
+1641300790 c:\users\benja\desktop\system soft [lab's]\endversion\vm-4\memory.h
+	<iostream>
+	<cinttypes>
+	"GRP.h"
+	"Types.h"
+
+1641929798 c:\users\benja\desktop\system soft [lab's]\endversion\vm-4\types.h
+
+1641290801 c:\users\benja\desktop\system soft [lab's]\endversion\vm-4\grp.h
+	<cinttypes>
+
+1641929640 source:c:\users\benja\desktop\system soft [lab's]\endversion\vm-4\command.cpp
+	"Command.h"
+
+1641309475 c:\users\benja\desktop\system soft [lab's]\endversion\vm-4\command.h
+	"Memory.h"
+
+1641929666 source:c:\users\benja\desktop\system soft [lab's]\endversion\vm-4\processor.cpp
+	"Processor.h"
+
+1641564851 c:\users\benja\desktop\system soft [lab's]\endversion\vm-4\processor.h
+	<string>
+	<fstream>
+	"Memory.h"
+	"Command.h"
+
+1641929842 c:\users\benja\desktop\system soft [lab's]\endversion\vm-4\processor.cpp
+	"Processor.h"
+
